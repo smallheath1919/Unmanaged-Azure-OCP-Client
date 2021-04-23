@@ -1,4 +1,4 @@
-# Client OCP
+# Unmanaged Azure OCP Client
 Getting Started
 
 Installation instructions:
