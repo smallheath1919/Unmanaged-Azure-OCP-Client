@@ -5,7 +5,7 @@ The Unmanaged Azure OCP Client is a simple Bash based utility that currently min
 We plan on introducing more features going forward.
 
 ## **Pre-requisites:**<br><br>
-Installation of an Openshift Cluster on Azure. [How-to guide](https://cloud.redhat.com/openshift/install/azure/installer-provisioned)
+Installation of an Openshift Cluster on Azure with installer-provisioned infrastructure. [How-to guide](https://cloud.redhat.com/openshift/install/azure/installer-provisioned)
 <br><br>
 ## **Getting Started**
 
