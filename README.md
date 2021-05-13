@@ -1,6 +1,8 @@
 # Unmanaged Azure OCP Client
 
-The Unmanaged Azure OCP Client is a simple Bash based utility that currently minimizes the trouble of manually starting and stopping node VMs in sequence. Instead it uses a commands with options similar to Az CLI, like resource group and name of the cluster.
+The Unmanaged Azure OCP Client is a simple Bash based utility that currently minimizes the trouble of manually starting and stopping node VMs in a specific sequence. Instead it uses commands with options similar to Az CLI, like resource group and name of the cluster.
+
+We plan on introducing more features going forward.
 
 ## **Pre-requisites:**<br><br>
 Installation of an Openshift Cluster on Azure. [How-to guide](https://cloud.redhat.com/openshift/install/azure/installer-provisioned)
